@@ -1,0 +1,5 @@
+git init = to initilies the git 
+git status = to check the status
+git add . = to untrack to stage 
+git rm --cached = to stage to untrack
+git commit -m"" = to stage to track
