@@ -3,3 +3,6 @@ git status = to check the status
 git add . = to untrack to stage 
 git rm --cached = to stage to untrack
 git commit -m"" = to stage to track
+git remote add origin hhtps://
+git remote -v
+git push origin master
