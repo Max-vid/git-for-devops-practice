@@ -6,4 +6,5 @@ git commit -m"" = to stage to track
 git remote add origin hhtps://
 git remote -v
 git push origin master
+git pull origin master
 this is new changed 
